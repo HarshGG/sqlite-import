@@ -1,4 +1,8 @@
 # SQLite Import
+Description: program to import and organize data from various file types into a SQLite database file<br>
+Language: Python<br>
+Project type: School project, collaborative<br>
+Purpose: Explore the vast capabilities of Python in handling and organizing data, put together experience with various data file types into one program<br>
 
 It's time to put everything together and import data into a SQLite database file.
 
