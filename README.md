@@ -4,6 +4,8 @@ Language: Python<br>
 Project type: School project, collaborative<br>
 Purpose: Explore the vast capabilities of Python in handling and organizing data, put together experience with various data file types into one program<br>
 
+## instructions given:
+
 It's time to put everything together and import data into a SQLite database file.
 
 Your task is to implement the `Import` class so that it will import data from `xml`, `json` or `csv` files. For each data set there is an XML, JSON, and CSV file to test with. The database structure should be the same after importing each, although the actual data differs. 
